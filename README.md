@@ -2,7 +2,7 @@
 
 # 💫 Sobre mi:
 Soy un entusiasta de la programación con un fuerte interés en convertirme en un desarrollador full-stack. Aunque todavía estoy en las primeras etapas de mi carrera, estoy muy motivado para aprender y mejorar mis habilidades.
-
+(TODO ESTO ES MENTIRA)
 
 # 💻 Tecnologías y herramientas:
 
